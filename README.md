@@ -3,9 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20HInXe.&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
 </p>
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Welcome+to+my+Github+profile+page;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5" alt="Hello World" title="Hello World"/>
-</p>
-<p align="center">
     <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=QingYingX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=QingYingX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
 </p>
